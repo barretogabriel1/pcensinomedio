@@ -1,4 +1,4 @@
-h1 {
+#titulo {
     font-size: 30px;
     text-align: center;
 }
@@ -8,3 +8,4 @@ p {
     color:red;
     font-size: 20px;
 }
+
