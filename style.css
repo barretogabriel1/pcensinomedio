@@ -16,4 +16,6 @@ body {
 #banner {
     width: 20%;
     padding: 20px;
+    background-color: white;
+    marg: 20px;
 }
