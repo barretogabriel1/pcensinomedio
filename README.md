@@ -1,7 +1,18 @@
-# pcensinomedio
+## Cores
 
-## Prof. Gabriel Barreto
+'''css
+:root {
+    --tex-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+    
+}
+'''
 
-### Formadores em Ação
+> Para mais cores
 
-Repositório criado para o site desenvolvido durante as reuniões do grupo de formadores Pensamento Computacional - Ensino Médio.
+- https://colorhunt.co/
+- https://color.adobe.com/create/color-wheel
+
+## Para fontes
+https://fonts.google.com/ 
